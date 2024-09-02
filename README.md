@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-$ git clone https://github.com/Cstrp/MsgKeeper.git
+$ git clone https://github.com/Cstrp/MessageKeeper.git
 $ cd ImageKeeper
 ```
 
